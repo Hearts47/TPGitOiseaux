@@ -7,4 +7,12 @@ Sarcelle d’hiver
 Chevalier culblanc
 Chevalier aboyeur
 Courlis corlieu
+<<<<<<< HEAD
 Courlis cendré
+=======
+Courlis cendré
+Rossignol
+Martinet
+Foulque macroule
+Outarde canepetière
+>>>>>>> fb4e4792cdff7b906ae5778f5e0ef4d6b9401c9e
