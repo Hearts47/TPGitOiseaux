@@ -7,4 +7,7 @@ Sarcelle d’hiver
 Chevalier culblanc
 Chevalier aboyeur
 Courlis corlieu
+Courlis cendréChevalier culblanc
+Chevalier aboyeur
+Courlis corlieu
 Courlis cendré
